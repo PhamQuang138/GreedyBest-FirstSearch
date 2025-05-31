@@ -6,19 +6,12 @@ def euclidean_distance(p1, p2, coord_dict):
     x2, y2 = coord_dict[p2]
     return math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
 
-# Hàm heuristic chính
-def heuristic(current_id, unvisited, coord_dict, depot_id=0):
+def enhanced_heuristic(current_id, unvisited, coord_dict, time_dict=None, demand_dict=None, current_time=None, depot_id=0,
+                       alpha=1.0, beta=0.0, gamma=0.0):
     """
-    - current_id: diem hien tai (int)
-    - unvisited: diem chua giao (list of int)
-    - coord_dict: dict chua toa do {id: (x, y)}
-    - depot_id: dia chi kho (0,0)
+    Trả về ID của khách hàng gần nhất (chỉ xét khoảng cách).
     """
     if not unvisited:
-        # Nếu giao xong → quay về kho
-        return euclidean_distance(current_id, depot_id, coord_dict)
-    # Khoảng cách đến điểm gần nhất
-    return min(
-        euclidean_distance(current_id, p, coord_dict)
-        for p in unvisited
-    )
+        return depot_id
+    return min(unvisited, key=lambda p: euclidean_distance(current_id, p, coord_dict))
+
