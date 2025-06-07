@@ -8,8 +8,10 @@ if __name__ == "__main__":
 
     GBFS = greedy_bfs_multi_vehicles(coord_dict, num_vehicles=25, max_customers_per_vehicle=4)
     A_star = a_star_multi_vehicles(coord_dict, num_vehicles=25, max_customers_per_vehicle=4)
+    print("Test GBFS: \n")
     for i, r in enumerate(GBFS):
         print(f"Xe {i + 1}: {r}")
+    print("Test A*: \n")
     for i, r in enumerate(A_star):
         print(f"Xe {i + 1}: {r}")
 
