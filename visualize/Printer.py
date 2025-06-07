@@ -9,7 +9,7 @@ def print_one_txt_file(file_name):
     file_path = os.path.join(input_folder, file_name)
 
     if not os.path.exists(file_path):
-        print(f"❌ File '{file_name}' không tồn tại trong thư mục model/input/")
+        print(f"File '{file_name}' không tồn tại trong thư mục model/input/")
         return
 
     print(f"==================== 📄 File: {file_name} ====================")
@@ -26,10 +26,10 @@ def print_one_txt_file(file_name):
             break
 
     if table_start_idx is None:
-        print("⚠️ Không tìm thấy bảng chứa tọa độ trong file.")
+        print("Không tìm thấy bảng chứa tọa độ trong file.")
         return
 
-    # Tách phần bảng từ file
+    # Tách thành phần bảng từ file
     data_lines = lines[table_start_idx:]
     coords = []
     depot = None
@@ -46,7 +46,7 @@ def print_one_txt_file(file_name):
                 coords.append((cust_id, x, y))
 
     if depot is None:
-        print("⚠️ Không tìm thấy điểm gốc (CUST NO. == 0).")
+        print("Không tìm thấy điểm gốc (CUST NO. == 0).")
         return
 
     # Tạo thư mục output nếu chưa có
@@ -96,7 +96,7 @@ def print_one_txt_file(file_name):
             demand_dict[cust_id] = demand
 
     return coord_dict, time_dict, demand_dict
-    print(f"✅ Biểu đồ tọa độ đã lưu tại: {image_path}")
+    print(f"Biểu đồ tọa độ đã lưu tại: {image_path}")
 
 
 import matplotlib.pyplot as plt
@@ -142,7 +142,7 @@ def plot_vehicle_routes(vehicle_routes, coord_dict, file_name='c101'):
     save_path = os.path.join(output_folder, f"{file_name}_routes.png")
     plt.savefig(save_path)
     plt.close()
-    print(f"✅ Biểu đồ tuyến đường đã lưu tại: {save_path}")
+    print(f"Biểu đồ tuyến đường đã lưu tại: {save_path}")
 import plotly.graph_objs as go
 import os
 
@@ -198,7 +198,7 @@ def plot_vehicle_routes_interactive(vehicle_routes, coord_dict, file_name='c101'
     os.makedirs(output_folder, exist_ok=True)
     save_path = os.path.join(output_folder, f"{file_name}_interactive_routes.html")
     fig.write_html(save_path)
-    print(f"✅ Đã tạo biểu đồ tương tác tại: {save_path}")
+    print(f"Đã tạo biểu đồ tương tác tại: {save_path}")
 
 def tinh_quang_duong(vehicle_routes, coord_dict):
     tong_quang_duong_tat_ca_xe = 0
@@ -219,4 +219,4 @@ def tinh_quang_duong(vehicle_routes, coord_dict):
     os.makedirs(output_folder, exist_ok=True)
     save_path = os.path.join(output_folder, f"{file_name}_interactive_routes.html")
     fig.write_html(save_path)
-    print(f"✅ Đã tạo biểu đồ tương tác tại: {save_path}")
+    print(f"Đã tạo biểu đồ tương tác tại: {save_path}")
