@@ -1,0 +1,152 @@
+Xe 1 giao điểm 27 (đúng hạn)
+Xe 1 giao điểm 53 (đúng hạn)
+Xe 1 giao điểm 58 (đúng hạn)
+Xe 2 giao điểm 28 (đúng hạn)
+Xe 2 giao điểm 26 (đúng hạn)
+Xe 3 giao điểm 52 (đúng hạn)
+Xe 3 giao điểm 89 (đúng hạn)
+Xe 4 giao điểm 69 (đúng hạn)
+Xe 4 giao điểm 1 (đúng hạn)
+Xe 5 giao điểm 95 (đúng hạn)
+Xe 5 giao điểm 97 (đúng hạn)
+Xe 6 giao điểm 12 (đúng hạn)
+Xe 6 giao điểm 80 (đúng hạn)
+Xe 7 giao điểm 76 (đúng hạn)
+Xe 7 giao điểm 77 (đúng hạn)
+Xe 8 giao điểm 31 (đúng hạn)
+Xe 8 giao điểm 70 (đúng hạn)
+Xe 9 giao điểm 59 (đúng hạn)
+Xe 9 giao điểm 93 (đúng hạn)
+Xe 10 giao điểm 2 (đúng hạn)
+Xe 10 giao điểm 13 (đúng hạn)
+Xe 11 giao điểm 21 (đúng hạn)
+Xe 11 giao điểm 74 (đúng hạn)
+Xe 12 giao điểm 92 (đúng hạn)
+Xe 12 giao điểm 37 (đúng hạn)
+Xe 13 giao điểm 88 (đúng hạn)
+Xe 13 giao điểm 10 (đúng hạn)
+Xe 14 giao điểm 73 (đúng hạn)
+Xe 14 giao điểm 56 (đúng hạn)
+Xe 15 giao điểm 5 (đúng hạn)
+Xe 15 giao điểm 60 (đúng hạn)
+Xe 16 giao điểm 83 (đúng hạn)
+Xe 16 giao điểm 17 (đúng hạn)
+Xe 17 giao điểm 98 (đúng hạn)
+Xe 17 giao điểm 100 (đúng hạn)
+Xe 18 giao điểm 72 (đúng hạn)
+Xe 18 giao điểm 4 (đúng hạn)
+Xe 19 giao điểm 82 (đúng hạn)
+Xe 19 giao điểm 48 (đúng hạn)
+Xe 20 giao điểm 33 (đúng hạn)
+Xe 20 giao điểm 3 (đúng hạn)
+Xe 21 giao điểm 30 (đúng hạn)
+Xe 21 giao điểm 20 (đúng hạn)
+Xe 22 giao điểm 42 (đúng hạn)
+Xe 22 giao điểm 43 (đúng hạn)
+Xe 23 giao điểm 61 (đúng hạn)
+Xe 23 giao điểm 91 (đúng hạn)
+Xe 24 giao điểm 62 (đúng hạn)
+Xe 24 giao điểm 32 (đúng hạn)
+Xe 25 giao điểm 75 (đúng hạn)
+Xe 25 giao điểm 25 (đúng hạn)
+Vẫn còn khách chưa được phục vụ đúng hạn:
+ - Khách 6, hạn: 109s, tọa độ: (25, 30)
+ - Khách 7, hạn: 91s, tọa độ: (20, 50)
+ - Khách 8, hạn: 105s, tọa độ: (10, 43)
+ - Khách 9, hạn: 107s, tọa độ: (55, 60)
+ - Khách 11, hạn: 77s, tọa độ: (20, 65)
+ - Khách 14, hạn: 42s, tọa độ: (15, 10)
+ - Khách 15, hạn: 71s, tọa độ: (30, 5)
+ - Khách 16, hạn: 85s, tọa độ: (10, 20)
+ - Khách 18, hạn: 97s, tọa độ: (20, 40)
+ - Khách 19, hạn: 86s, tọa độ: (15, 60)
+ - Khách 22, hạn: 107s, tọa độ: (45, 10)
+ - Khách 23, hạn: 78s, tọa độ: (55, 5)
+ - Khách 24, hạn: 163s, tọa độ: (65, 35)
+ - Khách 29, hạn: 73s, tọa độ: (64, 42)
+ - Khách 34, hạn: 127s, tọa độ: (65, 55)
+ - Khách 35, hạn: 153s, tọa độ: (63, 65)
+ - Khách 36, hạn: 51s, tọa độ: (2, 60)
+ - Khách 38, hạn: 93s, tọa độ: (5, 5)
+ - Khách 39, hạn: 54s, tọa độ: (60, 12)
+ - Khách 40, hạn: 95s, tọa độ: (40, 25)
+ - Khách 41, hạn: 107s, tọa độ: (42, 7)
+ - Khách 44, hạn: 79s, tọa độ: (11, 14)
+ - Khách 45, hạn: 42s, tọa độ: (6, 38)
+ - Khách 46, hạn: 127s, tọa độ: (2, 48)
+ - Khách 47, hạn: 61s, tọa độ: (8, 56)
+ - Khách 49, hạn: 118s, tọa độ: (6, 68)
+ - Khách 50, hạn: 134s, tọa độ: (47, 47)
+ - Khách 51, hạn: 98s, tọa độ: (49, 58)
+ - Khách 54, hạn: 150s, tọa độ: (57, 29)
+ - Khách 55, hạn: 146s, tọa độ: (63, 23)
+ - Khách 57, hạn: 111s, tọa độ: (32, 12)
+ - Khách 63, hạn: 44s, tọa độ: (27, 69)
+ - Khách 64, hạn: 83s, tọa độ: (15, 77)
+ - Khách 65, hạn: 61s, tọa độ: (62, 77)
+ - Khách 66, hạn: 137s, tọa độ: (49, 73)
+ - Khách 67, hạn: 93s, tọa độ: (67, 5)
+ - Khách 68, hạn: 152s, tọa độ: (56, 39)
+ - Khách 71, hạn: 87s, tọa độ: (57, 68)
+ - Khách 78, hạn: 106s, tọa độ: (61, 52)
+ - Khách 79, hạn: 102s, tọa độ: (57, 48)
+ - Khách 81, hạn: 104s, tọa độ: (55, 54)
+ - Khách 84, hạn: 111s, tọa độ: (11, 31)
+ - Khách 85, hạn: 101s, tọa độ: (16, 22)
+ - Khách 86, hạn: 104s, tọa độ: (4, 18)
+ - Khách 87, hạn: 103s, tọa độ: (28, 18)
+ - Khách 90, hạn: 105s, tọa độ: (31, 67)
+ - Khách 94, hạn: 110s, tọa độ: (26, 27)
+ - Khách 96, hạn: 145s, tọa độ: (22, 27)
+ - Khách 99, hạn: 93s, tọa độ: (20, 26)
+
+Gợi ý tốc độ tối thiểu để giao các khách còn lại từ depot:
+ - Khách 6: cần tốc độ ≥ 0.59 m/s (2.12 km/h) cho quãng đường 11.2 m, hạn 109 s
+ - Khách 7: cần tốc độ ≥ 21.21 m/s (76.37 km/h) cho quãng đường 21.2 m, hạn 91 s
+ - Khách 8: cần tốc độ ≥ 1.75 m/s (6.30 km/h) cho quãng đường 26.2 m, hạn 105 s
+ - Khách 9: cần tốc độ ≥ 1.88 m/s (6.78 km/h) cho quãng đường 32.0 m, hạn 107 s
+ - Khách 11: chỉ có thể giao đầu tiên với tốc độ ≥ 0.44 m/s (1.57 km/h), do hạn chỉ 77 s
+ - Khách 14: chỉ có thể giao đầu tiên với tốc độ ≥ 0.76 m/s (2.74 km/h), do hạn chỉ 42 s
+ - Khách 15: chỉ có thể giao đầu tiên với tốc độ ≥ 0.43 m/s (1.54 km/h), do hạn chỉ 71 s
+ - Khách 16: chỉ có thể giao đầu tiên với tốc độ ≥ 0.34 m/s (1.23 km/h), do hạn chỉ 85 s
+ - Khách 18: cần tốc độ ≥ 2.26 m/s (8.13 km/h) cho quãng đường 15.8 m, hạn 97 s
+ - Khách 19: chỉ có thể giao đầu tiên với tốc độ ≥ 0.37 m/s (1.34 km/h), do hạn chỉ 86 s
+ - Khách 22: cần tốc độ ≥ 1.58 m/s (5.70 km/h) cho quãng đường 26.9 m, hạn 107 s
+ - Khách 23: chỉ có thể giao đầu tiên với tốc độ ≥ 0.46 m/s (1.66 km/h), do hạn chỉ 78 s
+ - Khách 24: cần tốc độ ≥ 0.41 m/s (1.48 km/h) cho quãng đường 30.0 m, hạn 163 s
+ - Khách 29: chỉ có thể giao đầu tiên với tốc độ ≥ 0.41 m/s (1.47 km/h), do hạn chỉ 73 s
+ - Khách 34: cần tốc độ ≥ 0.97 m/s (3.51 km/h) cho quãng đường 36.1 m, hạn 127 s
+ - Khách 35: cần tốc độ ≥ 0.65 m/s (2.34 km/h) cho quãng đường 41.0 m, hạn 153 s
+ - Khách 36: chỉ có thể giao đầu tiên với tốc độ ≥ 0.81 m/s (2.92 km/h), do hạn chỉ 51 s
+ - Khách 38: cần tốc độ ≥ 14.14 m/s (50.91 km/h) cho quãng đường 42.4 m, hạn 93 s
+ - Khách 39: chỉ có thể giao đầu tiên với tốc độ ≥ 0.63 m/s (2.26 km/h), do hạn chỉ 54 s
+ - Khách 40: cần tốc độ ≥ 2.24 m/s (8.05 km/h) cho quãng đường 11.2 m, hạn 95 s
+ - Khách 41: cần tốc độ ≥ 1.70 m/s (6.11 km/h) cho quãng đường 28.9 m, hạn 107 s
+ - Khách 44: chỉ có thể giao đầu tiên với tốc độ ≥ 0.40 m/s (1.45 km/h), do hạn chỉ 79 s
+ - Khách 45: chỉ có thể giao đầu tiên với tốc độ ≥ 0.69 m/s (2.50 km/h), do hạn chỉ 42 s
+ - Khách 46: cần tốc độ ≥ 0.96 m/s (3.45 km/h) cho quãng đường 35.5 m, hạn 127 s
+ - Khách 47: chỉ có thể giao đầu tiên với tốc độ ≥ 0.56 m/s (2.02 km/h), do hạn chỉ 61 s
+ - Khách 49: cần tốc độ ≥ 1.57 m/s (5.65 km/h) cho quãng đường 43.9 m, hạn 118 s
+ - Khách 50: cần tốc độ ≥ 0.39 m/s (1.39 km/h) cho quãng đường 17.0 m, hạn 134 s
+ - Khách 51: cần tốc độ ≥ 3.37 m/s (12.12 km/h) cho quãng đường 26.9 m, hạn 98 s
+ - Khách 54: cần tốc độ ≥ 0.38 m/s (1.37 km/h) cho quãng đường 22.8 m, hạn 150 s
+ - Khách 55: cần tốc độ ≥ 0.54 m/s (1.96 km/h) cho quãng đường 30.5 m, hạn 146 s
+ - Khách 57: cần tốc độ ≥ 1.10 m/s (3.98 km/h) cho quãng đường 23.2 m, hạn 111 s
+ - Khách 63: chỉ có thể giao đầu tiên với tốc độ ≥ 0.79 m/s (2.86 km/h), do hạn chỉ 44 s
+ - Khách 64: chỉ có thể giao đầu tiên với tốc độ ≥ 0.56 m/s (2.02 km/h), do hạn chỉ 83 s
+ - Khách 65: chỉ có thể giao đầu tiên với tốc độ ≥ 0.82 m/s (2.95 km/h), do hạn chỉ 61 s
+ - Khách 66: cần tốc độ ≥ 0.86 m/s (3.10 km/h) cho quãng đường 40.5 m, hạn 137 s
+ - Khách 67: cần tốc độ ≥ 14.62 m/s (52.64 km/h) cho quãng đường 43.9 m, hạn 93 s
+ - Khách 68: cần tốc độ ≥ 0.34 m/s (1.24 km/h) cho quãng đường 21.4 m, hạn 152 s
+ - Khách 71: chỉ có thể giao đầu tiên với tốc độ ≥ 0.46 m/s (1.64 km/h), do hạn chỉ 87 s
+ - Khách 78: cần tốc độ ≥ 1.94 m/s (6.99 km/h) cho quãng đường 31.1 m, hạn 106 s
+ - Khách 79: cần tốc độ ≥ 2.13 m/s (7.67 km/h) cho quãng đường 25.6 m, hạn 102 s
+ - Khách 81: cần tốc độ ≥ 1.97 m/s (7.09 km/h) cho quãng đường 27.6 m, hạn 104 s
+ - Khách 84: cần tốc độ ≥ 1.16 m/s (4.17 km/h) cho quãng đường 24.3 m, hạn 111 s
+ - Khách 85: cần tốc độ ≥ 2.09 m/s (7.53 km/h) cho quãng đường 23.0 m, hạn 101 s
+ - Khách 86: cần tốc độ ≥ 2.53 m/s (9.09 km/h) cho quãng đường 35.4 m, hạn 104 s
+ - Khách 87: cần tốc độ ≥ 1.41 m/s (5.09 km/h) cho quãng đường 18.4 m, hạn 103 s
+ - Khách 90: cần tốc độ ≥ 2.15 m/s (7.74 km/h) cho quãng đường 32.2 m, hạn 105 s
+ - Khách 94: cần tốc độ ≥ 0.60 m/s (2.17 km/h) cho quãng đường 12.0 m, hạn 110 s
+ - Khách 96: cần tốc độ ≥ 0.28 m/s (1.00 km/h) cho quãng đường 15.3 m, hạn 145 s
+ - Khách 99: cần tốc độ ≥ 5.83 m/s (20.99 km/h) cho quãng đường 17.5 m, hạn 93 s

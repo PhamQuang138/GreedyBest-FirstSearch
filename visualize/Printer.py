@@ -4,6 +4,9 @@ import matplotlib.cm as cm
 import plotly.graph_objs as go
 from algorithms.Heuristic import euclidean_distance
 
+import os
+import matplotlib.pyplot as plt
+
 def print_one_txt_file(file_name):
     input_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "model", "input"))
     file_path = os.path.join(input_folder, file_name)
@@ -13,9 +16,9 @@ def print_one_txt_file(file_name):
         return
 
     with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+        lines = f.read().strip().split('\n')
 
-    lines = content.strip().split('\n')
+    # Tìm dòng bắt đầu bảng dữ liệu
     table_start_idx = None
     for i, line in enumerate(lines):
         if 'XCOORD' in line and 'YCOORD' in line:
@@ -32,10 +35,9 @@ def print_one_txt_file(file_name):
 
     for line in data_lines:
         parts = line.strip().split()
-        if len(parts) >= 3 and parts[0].isdigit() and parts[1].isdigit() and parts[2].isdigit():
+        if len(parts) >= 3 and parts[0].isdigit():
             cust_id = int(parts[0])
-            x = int(parts[1])
-            y = int(parts[2])
+            x, y = int(parts[1]), int(parts[2])
             if cust_id == 0:
                 depot = (x, y)
             else:
@@ -45,6 +47,7 @@ def print_one_txt_file(file_name):
         print("Không tìm thấy điểm gốc (CUST NO. == 0).")
         return
 
+    # Vẽ tọa độ và lưu ảnh
     output_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "model", "output"))
     os.makedirs(output_folder, exist_ok=True)
 
@@ -68,12 +71,14 @@ def print_one_txt_file(file_name):
     plt.savefig(image_path)
     plt.close()
 
+    # Chuẩn bị các dict dữ liệu
     coord_dict = {cust_id: (x, y) for cust_id, x, y in coords}
     coord_dict[0] = depot
 
     time_dict = {}
     demand_dict = {}
     due_date_dict = {}
+    service_time_dict = {}
 
     for line in data_lines:
         parts = line.strip().split()
@@ -83,11 +88,13 @@ def print_one_txt_file(file_name):
             ready_time = int(parts[4])
             due_date = int(parts[5])
             service_time = int(parts[6])
-            time_dict[cust_id] = (ready_time, due_date, service_time)
+
             demand_dict[cust_id] = demand
             due_date_dict[cust_id] = due_date
+            service_time_dict[cust_id] = service_time
+            time_dict[cust_id] = (ready_time, due_date, service_time)
 
-    return coord_dict, time_dict, demand_dict, due_date_dict
+    return coord_dict, time_dict, demand_dict, due_date_dict, service_time_dict
 
 def plot_vehicle_routes(vehicle_routes, coord_dict, due_date_dict, file_name='c101'):
     output_folder = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "model", "output"))

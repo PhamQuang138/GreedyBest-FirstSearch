@@ -8,9 +8,6 @@ def euclidean_distance(p1, p2, coord_dict):
 
 def enhanced_heuristic(current_id, unvisited, coord_dict, time_dict=None, demand_dict=None, current_time=None, depot_id=0,
                        alpha=1.0, beta=0.0, gamma=0.0):
-    """
-    Trả về ID của khách hàng gần nhất (chỉ xét khoảng cách).
-    """
     if not unvisited:
         return depot_id
     return min(unvisited, key=lambda p: euclidean_distance(current_id, p, coord_dict))
