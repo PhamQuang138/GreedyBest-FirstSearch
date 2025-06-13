@@ -1,14 +1,16 @@
+import math
 import os
 from datetime import datetime
 from algorithms.Heuristic import euclidean_distance
+
 
 def greedy_bfs(coord_dict, time_dict,
                dataset_name="dataset",
                num_vehicles=25,
                speed=1.0,
                max_customers_per_vehicle=6,
-               report_dir="model/output"):
-
+               report_dir="model/output",
+               alpha=0.5, beta=0.5):
     due_date_dict = {k: v[1] for k, v in time_dict.items() if k != 0}
     service_time_dict = {k: v[2] for k, v in time_dict.items() if k != 0}
     default_service_time = max(service_time_dict.values()) if service_time_dict else 90
@@ -31,7 +33,15 @@ def greedy_bfs(coord_dict, time_dict,
         customers_served = 0
         vehicle_report = []
 
-        while customers_served < max_customers_per_vehicle:
+        while customers_served < max_customers_per_vehicle and unvisited:
+            # Tạo danh sách xếp hạng cho hai chiến lược
+            distance_ranks = sorted(unvisited, key=lambda p: euclidean_distance(current_id, p, coord_dict))
+            distance_rank_dict = {p: i for i, p in enumerate(distance_ranks)}
+
+            due_date_ranks = sorted(unvisited, key=lambda p: time_dict[p][1])
+            due_date_rank_dict = {p: i for i, p in enumerate(due_date_ranks)}
+
+            # Tìm khách hàng khả thi và tính điểm ưu tiên
             feasible = []
             for cust_id in unvisited:
                 distance = euclidean_distance(current_id, cust_id, coord_dict)
@@ -41,15 +51,19 @@ def greedy_bfs(coord_dict, time_dict,
                 total_time = arrival_time + service_time
 
                 if total_time <= due_date_dict[cust_id]:
-                    priority = due_date_dict[cust_id]
-                    feasible.append((cust_id, travel_time, priority, service_time))
+                    rank_distance = distance_rank_dict[cust_id]
+                    rank_due_date = due_date_rank_dict[cust_id]
+                    priority_score = alpha * rank_distance + beta * rank_due_date
+                    feasible.append((cust_id, travel_time, priority_score, service_time))
 
             if not feasible:
                 break
 
-            feasible.sort(key=lambda x: (x[2], x[1]))  # (due_date, travel_time)
+            # Chọn khách có điểm ưu tiên thấp nhất
+            feasible.sort(key=lambda x: x[2])
             next_id, travel_time, _, service_time = feasible[0]
 
+            # Cập nhật trạng thái
             arrival_time = current_time + travel_time
             current_time = arrival_time + service_time
             deadline = due_date_dict[next_id]
@@ -58,7 +72,7 @@ def greedy_bfs(coord_dict, time_dict,
             route.append(next_id)
             unvisited.remove(next_id)
             vehicle_report.append(
-                f"   - Đến điểm {next_id} lúc {arrival_time:.2f}s, rời lúc {current_time:.2f}s | Due: {deadline} {status}"
+                f"   - Đến điểm {next_id} lúc {arrival_time:.2f}s, rời lúc {current_time:.2f}s | Due: {deadline}s {status}"
             )
             current_id = next_id
             customers_served += 1
@@ -94,9 +108,8 @@ def greedy_bfs(coord_dict, time_dict,
     else:
         report_lines.append("\nTất cả các điểm đã được giao đúng hạn.")
 
-    # ✅ Thống kê tổng khách và kiểm tra thiếu
-    total_customers = len(coord_dict) - 1  # trừ depot
-    delivered_customers = sum(len(route) - 2 for route in vehicle_routes)  # trừ điểm đầu và cuối
+    total_customers = len(coord_dict) - 1
+    delivered_customers = sum(len(route) - 2 for route in vehicle_routes)
 
     report_lines.append(f"\nTổng số khách cần giao: {total_customers}")
     report_lines.append(f"Tổng số khách đã giao: {delivered_customers}")

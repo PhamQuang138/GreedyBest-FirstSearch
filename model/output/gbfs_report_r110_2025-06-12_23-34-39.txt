@@ -1,0 +1,126 @@
+Xe 1: [0, 28, 12, 21, 73, 72, 40, 0]
+   - Đến điểm 28 lúc 7.91s, rời lúc 17.91s | Due: 79s Đúng Hạn!
+   - Đến điểm 12 lúc 29.43s, rời lúc 39.43s | Due: 97s Đúng Hạn!
+   - Đến điểm 21 lúc 59.19s, rời lúc 69.19s | Due: 96s Đúng Hạn!
+   - Đến điểm 73 lúc 73.15s, rời lúc 83.15s | Due: 105s Đúng Hạn!
+   - Đến điểm 72 lúc 87.10s, rời lúc 97.10s | Due: 110s Đúng Hạn!
+   - Đến điểm 40 lúc 111.35s, rời lúc 121.35s | Due: 128s Đúng Hạn!
+Xe 2: [0, 52, 31, 7, 82, 47, 46, 0]
+   - Đến điểm 52 lúc 14.14s, rời lúc 24.14s | Due: 88s Đúng Hạn!
+   - Đến điểm 31 lúc 36.45s, rời lúc 46.45s | Due: 85s Đúng Hạn!
+   - Đến điểm 7 lúc 60.43s, rời lúc 70.43s | Due: 105s Đúng Hạn!
+   - Đến điểm 82 lúc 77.72s, rời lúc 87.72s | Due: 91s Đúng Hạn!
+   - Đến điểm 47 lúc 101.97s, rời lúc 111.97s | Due: 116s Đúng Hạn!
+   - Đến điểm 46 lúc 124.47s, rời lúc 134.47s | Due: 150s Đúng Hạn!
+Xe 3: [0, 95, 98, 61, 16, 85, 59, 0]
+   - Đến điểm 95 lúc 18.58s, rời lúc 28.58s | Due: 83s Đúng Hạn!
+   - Đến điểm 98 lúc 36.97s, rời lúc 46.97s | Due: 93s Đúng Hạn!
+   - Đến điểm 61 lúc 56.49s, rời lúc 66.49s | Due: 102s Đúng Hạn!
+   - Đến điểm 16 lúc 72.08s, rời lúc 82.08s | Due: 105s Đúng Hạn!
+   - Đến điểm 85 lúc 89.98s, rời lúc 99.98s | Due: 117s Đúng Hạn!
+   - Đến điểm 59 lúc 106.71s, rời lúc 116.71s | Due: 123s Đúng Hạn!
+Xe 4: [0, 2, 87, 57, 94, 99, 84, 0]
+   - Đến điểm 2 lúc 22.50s, rời lúc 32.50s | Due: 89s Đúng Hạn!
+   - Đến điểm 87 lúc 41.34s, rời lúc 51.34s | Due: 111s Đúng Hạn!
+   - Đến điểm 57 lúc 60.35s, rời lúc 70.35s | Due: 133s Đúng Hạn!
+   - Đến điểm 94 lúc 90.55s, rời lúc 100.55s | Due: 121s Đúng Hạn!
+   - Đến điểm 99 lúc 108.15s, rời lúc 118.15s | Due: 137s Đúng Hạn!
+   - Đến điểm 84 lúc 131.02s, rời lúc 141.02s | Due: 143s Đúng Hạn!
+Xe 5: [0, 18, 83, 5, 86, 44, 14, 0]
+   - Đến điểm 18 lúc 19.76s, rời lúc 29.76s | Due: 106s Đúng Hạn!
+   - Đến điểm 83 lúc 38.15s, rời lúc 48.15s | Due: 97s Đúng Hạn!
+   - Đến điểm 5 lúc 56.99s, rời lúc 66.99s | Due: 107s Đúng Hạn!
+   - Đến điểm 86 lúc 87.34s, rời lúc 97.34s | Due: 118s Đúng Hạn!
+   - Đến điểm 44 lúc 107.41s, rời lúc 117.41s | Due: 138s Đúng Hạn!
+   - Đến điểm 14 lúc 124.49s, rời lúc 134.49s | Due: 137s Đúng Hạn!
+Xe 6: [0, 53, 76, 29, 79, 3, 34, 0]
+   - Đến điểm 53 lúc 5.59s, rời lúc 15.59s | Due: 137s Đúng Hạn!
+   - Đến điểm 76 lúc 35.94s, rời lúc 45.94s | Due: 119s Đúng Hạn!
+   - Đến điểm 29 lúc 64.69s, rời lúc 74.69s | Due: 98s Đúng Hạn!
+   - Đến điểm 79 lúc 86.21s, rời lúc 96.21s | Due: 135s Đúng Hạn!
+   - Đến điểm 3 lúc 100.72s, rời lúc 110.72s | Due: 135s Đúng Hạn!
+   - Đến điểm 34 lúc 128.40s, rời lúc 138.40s | Due: 143s Đúng Hạn!
+Xe 7: [0, 69, 30, 51, 81, 9, 20, 0]
+   - Đến điểm 69 lúc 15.21s, rời lúc 25.21s | Due: 142s Đúng Hạn!
+   - Đến điểm 30 lúc 41.88s, rời lúc 51.88s | Due: 123s Đúng Hạn!
+   - Đến điểm 51 lúc 63.41s, rời lúc 73.41s | Due: 119s Đúng Hạn!
+   - Đến điểm 81 lúc 82.42s, rời lúc 92.42s | Due: 110s Đúng Hạn!
+   - Đến điểm 9 lúc 99.92s, rời lúc 109.92s | Due: 150s Đúng Hạn!
+   - Đến điểm 20 lúc 123.90s, rời lúc 133.90s | Due: 152s Đúng Hạn!
+Xe 8: [0, 6, 97, 75, 22, 23, 41, 0]
+   - Đến điểm 6 lúc 13.98s, rời lúc 23.98s | Due: 153s Đúng Hạn!
+   - Đến điểm 97 lúc 35.23s, rời lúc 45.23s | Due: 153s Đúng Hạn!
+   - Đến điểm 75 lúc 77.73s, rời lúc 87.73s | Due: 101s Đúng Hạn!
+   - Đến điểm 22 lúc 92.88s, rời lúc 102.88s | Due: 144s Đúng Hạn!
+   - Đến điểm 23 lúc 116.85s, rời lúc 126.85s | Due: 155s Đúng Hạn!
+   - Đến điểm 41 lúc 143.30s, rời lúc 153.30s | Due: 159s Đúng Hạn!
+Xe 9: [0, 27, 88, 19, 49, 11, 10, 0]
+   - Đến điểm 27 lúc 6.25s, rời lúc 16.25s | Due: 156s Đúng Hạn!
+   - Đến điểm 88 lúc 35.00s, rời lúc 45.00s | Due: 133s Đúng Hạn!
+   - Đến điểm 19 lúc 62.00s, rời lúc 72.00s | Due: 108s Đúng Hạn!
+   - Đến điểm 49 lúc 87.05s, rời lúc 97.05s | Due: 132s Đúng Hạn!
+   - Đến điểm 11 lúc 114.95s, rời lúc 124.95s | Due: 152s Đúng Hạn!
+   - Đến điểm 10 lúc 138.93s, rời lúc 148.93s | Due: 156s Đúng Hạn!
+Xe 10: [0, 26, 50, 71, 78, 33, 35, 0]
+   - Đến điểm 26 lúc 13.98s, rời lúc 23.98s | Due: 156s Đúng Hạn!
+   - Đến điểm 50 lúc 45.37s, rời lúc 55.37s | Due: 152s Đúng Hạn!
+   - Đến điểm 71 lúc 84.45s, rời lúc 94.45s | Due: 106s Đúng Hạn!
+   - Đến điểm 78 lúc 115.06s, rời lúc 125.06s | Due: 158s Đúng Hạn!
+   - Đến điểm 33 lúc 135.06s, rời lúc 145.06s | Due: 179s Đúng Hạn!
+   - Đến điểm 35 lúc 165.56s, rời lúc 175.56s | Due: 178s Đúng Hạn!
+Xe 11: [0, 96, 37, 15, 43, 38, 42, 0]
+   - Đến điểm 96 lúc 19.08s, rời lúc 29.08s | Due: 160s Đúng Hạn!
+   - Đến điểm 37 lúc 38.18s, rời lúc 48.18s | Due: 160s Đúng Hạn!
+   - Đến điểm 15 lúc 70.72s, rời lúc 80.72s | Due: 154s Đúng Hạn!
+   - Đến điểm 43 lúc 89.82s, rời lúc 99.82s | Due: 158s Đúng Hạn!
+   - Đến điểm 38 lúc 122.45s, rời lúc 132.45s | Due: 145s Đúng Hạn!
+   - Đến điểm 42 lúc 157.76s, rời lúc 167.76s | Due: 172s Đúng Hạn!
+Xe 12: [0, 92, 8, 62, 64, 48, 0]
+   - Đến điểm 92 lúc 22.98s, rời lúc 32.98s | Due: 181s Đúng Hạn!
+   - Đến điểm 8 lúc 63.21s, rời lúc 73.21s | Due: 138s Đúng Hạn!
+   - Đến điểm 62 lúc 98.86s, rời lúc 108.86s | Due: 164s Đúng Hạn!
+   - Đến điểm 64 lúc 135.14s, rời lúc 145.14s | Due: 165s Đúng Hạn!
+   - Đến điểm 48 lúc 176.49s, rời lúc 186.49s | Due: 192s Đúng Hạn!
+Xe 13: [0, 54, 25, 67, 39, 56, 55, 0]
+   - Đến điểm 54 lúc 28.50s, rời lúc 38.50s | Due: 168s Đúng Hạn!
+   - Đến điểm 25 lúc 53.56s, rời lúc 63.56s | Due: 186s Đúng Hạn!
+   - Đến điểm 67 lúc 82.47s, rời lúc 92.47s | Due: 150s Đúng Hạn!
+   - Đến điểm 39 lúc 104.85s, rời lúc 114.85s | Due: 186s Đúng Hạn!
+   - Đến điểm 56 lúc 123.60s, rời lúc 133.60s | Due: 188s Đúng Hạn!
+   - Đến điểm 55 lúc 152.18s, rời lúc 162.18s | Due: 189s Đúng Hạn!
+Xe 14: [0, 90, 63, 32, 65, 66, 70, 0]
+   - Đến điểm 90 lúc 40.31s, rời lúc 50.31s | Due: 123s Đúng Hạn!
+   - Đến điểm 63 lúc 55.90s, rời lúc 65.90s | Due: 112s Đúng Hạn!
+   - Đến điểm 32 lúc 75.90s, rời lúc 85.90s | Due: 175s Đúng Hạn!
+   - Đến điểm 65 lúc 121.10s, rời lúc 131.10s | Due: 170s Đúng Hạn!
+   - Đến điểm 66 lúc 148.10s, rời lúc 158.10s | Due: 179s Đúng Hạn!
+   - Đến điểm 70 lúc 184.11s, rời lúc 194.11s | Due: 198s Đúng Hạn!
+Xe 15: [0, 1, 24, 4, 74, 68, 80, 0]
+   - Đến điểm 1 lúc 19.04s, rời lúc 29.04s | Due: 201s Đúng Hạn!
+   - Đến điểm 24 lúc 63.77s, rời lúc 73.77s | Due: 190s Đúng Hạn!
+   - Đến điểm 4 lúc 96.31s, rời lúc 106.31s | Due: 195s Đúng Hạn!
+   - Đến điểm 74 lúc 120.56s, rời lúc 130.56s | Due: 195s Đúng Hạn!
+   - Đến điểm 68 lúc 165.38s, rời lúc 175.38s | Due: 198s Đúng Hạn!
+   - Đến điểm 80 lúc 177.88s, rời lúc 187.88s | Due: 198s Đúng Hạn!
+Xe 16: [0, 13, 17, 45, 36, 91, 0]
+   - Đến điểm 13 lúc 13.98s, rời lúc 23.98s | Due: 208s Đúng Hạn!
+   - Đến điểm 17 lúc 55.84s, rời lúc 65.84s | Due: 189s Đúng Hạn!
+   - Đến điểm 45 lúc 75.92s, rời lúc 85.92s | Due: 189s Đúng Hạn!
+   - Đến điểm 36 lúc 113.87s, rời lúc 123.87s | Due: 178s Đúng Hạn!
+   - Đến điểm 91 lúc 177.64s, rời lúc 187.64s | Due: 194s Đúng Hạn!
+Xe 17: [0, 58, 93, 100, 60, 77, 89, 0]
+   - Đến điểm 58 lúc 11.32s, rời lúc 21.32s | Due: 210s Đúng Hạn!
+   - Đến điểm 93 lúc 43.96s, rời lúc 53.96s | Due: 199s Đúng Hạn!
+   - Đến điểm 100 lúc 61.46s, rời lúc 71.46s | Due: 195s Đúng Hạn!
+   - Đến điểm 60 lúc 91.50s, rời lúc 101.50s | Due: 201s Đúng Hạn!
+   - Đến điểm 77 lúc 147.88s, rời lúc 157.88s | Due: 200s Đúng Hạn!
+   - Đến điểm 89 lúc 193.08s, rời lúc 203.08s | Due: 211s Đúng Hạn!
+
+Tất cả các điểm đã được giao đúng hạn.
+
+Tổng số khách cần giao: 100
+Tổng số khách đã giao: 100
+Đã giao hết tất cả các khách!
+
+Tổng số xe sử dụng: 17
+Đã lưu báo cáo vào: model/output\gbfs_report_r110_2025-06-12_23-34-39.txt
