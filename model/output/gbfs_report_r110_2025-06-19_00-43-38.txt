@@ -1,0 +1,184 @@
+Xe 1: [0, 28, 76, 50, 77, 0]
+   - Đến điểm 28 lúc 31.62s, rời lúc 41.62s | Due: 79 Đúng Hạn!
+   - Đến điểm 76 lúc 88.79s, rời lúc 98.79s | Due: 119 Đúng Hạn!
+   - Đến điểm 50 lúc 125.72s, rời lúc 135.72s | Due: 152 Đúng Hạn!
+   - Đến điểm 77 lúc 171.77s, rời lúc 181.77s | Due: 200 Đúng Hạn!
+Xe 2: [0, 52, 88, 62, 0]
+   - Đến điểm 52 lúc 56.57s, rời lúc 66.57s | Due: 88 Đúng Hạn!
+   - Đến điểm 88 lúc 111.85s, rời lúc 121.85s | Due: 133 Đúng Hạn!
+   - Đến điểm 62 lúc 153.47s, rời lúc 163.47s | Due: 164 Đúng Hạn!
+Xe 3: [0, 12, 26, 58, 0]
+   - Đến điểm 12 lúc 75.00s, rời lúc 85.00s | Due: 97 Đúng Hạn!
+   - Đến điểm 26 lúc 120.36s, rời lúc 130.36s | Due: 156 Đúng Hạn!
+   - Đến điểm 58 lúc 179.60s, rời lúc 189.60s | Due: 210 Đúng Hạn!
+Xe 4: [0, 18, 45, 0]
+   - Đến điểm 18 lúc 79.06s, rời lúc 89.06s | Due: 106 Đúng Hạn!
+   - Đến điểm 45 lúc 159.77s, rời lúc 169.77s | Due: 189 Đúng Hạn!
+Xe 5: [0, 87, 97, 92, 93, 0]
+   - Đến điểm 87 lúc 91.92s, rời lúc 101.92s | Due: 111 Đúng Hạn!
+   - Đến điểm 97 lúc 123.14s, rời lúc 133.14s | Due: 153 Đúng Hạn!
+   - Đến điểm 92 lúc 148.95s, rời lúc 158.95s | Due: 181 Đúng Hạn!
+   - Đến điểm 93 lúc 181.31s, rời lúc 191.31s | Due: 199 Đúng Hạn!
+Xe 6: [0, 94, 59, 99, 96, 0]
+   - Đến điểm 94 lúc 60.21s, rời lúc 70.21s | Due: 121 Đúng Hạn!
+   - Đến điểm 59 lúc 99.36s, rời lúc 109.36s | Due: 123 Đúng Hạn!
+   - Đến điểm 99 lúc 120.54s, rời lúc 130.54s | Due: 137 Đúng Hạn!
+   - Đến điểm 96 lúc 141.72s, rời lúc 151.72s | Due: 160 Đúng Hạn!
+Xe 7: [0, 40, 53, 13, 0]
+   - Đến điểm 40 lúc 55.90s, rời lúc 65.90s | Due: 128 Đúng Hạn!
+   - Đến điểm 53 lúc 99.44s, rời lúc 109.44s | Due: 137 Đúng Hạn!
+   - Đến điểm 13 lúc 155.54s, rời lúc 165.54s | Due: 208 Đúng Hạn!
+Xe 8: [0, 57, 0]
+   - Đến điểm 57 lúc 115.97s, rời lúc 125.97s | Due: 133 Đúng Hạn!
+Xe 9: [0, 3, 33, 0]
+   - Đến điểm 3 lúc 111.80s, rời lúc 121.80s | Due: 135 Đúng Hạn!
+   - Đến điểm 33 lúc 158.20s, rời lúc 168.20s | Due: 179 Đúng Hạn!
+Xe 10: [0, 69, 27, 1, 0]
+   - Đến điểm 69 lúc 60.83s, rời lúc 70.83s | Due: 142 Đúng Hạn!
+   - Đến điểm 27 lúc 107.23s, rời lúc 117.23s | Due: 156 Đúng Hạn!
+   - Đến điểm 1 lúc 171.31s, rời lúc 181.31s | Due: 201 Đúng Hạn!
+Xe 11: [0, 84, 17, 0]
+   - Đến điểm 84 lúc 121.66s, rời lúc 131.66s | Due: 143 Đúng Hạn!
+   - Đến điểm 17 lúc 162.07s, rời lúc 172.07s | Due: 189 Đúng Hạn!
+Xe 12: [0, 6, 37, 91, 100, 0]
+   - Đến điểm 6 lúc 55.90s, rời lúc 65.90s | Due: 153 Đúng Hạn!
+   - Đến điểm 37 lúc 121.80s, rời lúc 131.80s | Due: 160 Đúng Hạn!
+   - Đến điểm 91 lúc 157.30s, rời lúc 167.30s | Due: 194 Đúng Hạn!
+   - Đến điểm 100 lúc 183.11s, rời lúc 193.11s | Due: 195 Đúng Hạn!
+Xe 13: [0, 10, 70, 0]
+   - Đến điểm 10 lúc 127.48s, rời lúc 137.48s | Due: 156 Đúng Hạn!
+   - Đến điểm 70 lúc 177.79s, rời lúc 187.79s | Due: 198 Đúng Hạn!
+Xe 14: [0, 41, 0]
+   - Đến điểm 41 lúc 144.31s, rời lúc 154.31s | Due: 159 Đúng Hạn!
+Xe 15: [0, 54, 55, 0]
+   - Đến điểm 54 lúc 114.02s, rời lúc 124.02s | Due: 168 Đúng Hạn!
+   - Đến điểm 55 lúc 166.44s, rời lúc 176.44s | Due: 189 Đúng Hạn!
+Xe 16: [0, 42, 0]
+   - Đến điểm 42 lúc 127.48s, rời lúc 137.48s | Due: 172 Đúng Hạn!
+Xe 17: [0, 25, 0]
+   - Đến điểm 25 lúc 167.71s, rời lúc 177.71s | Due: 186 Đúng Hạn!
+Xe 18: [0, 39, 0]
+   - Đến điểm 39 lúc 169.85s, rời lúc 179.85s | Due: 186 Đúng Hạn!
+Xe 19: [0, 56, 0]
+   - Đến điểm 56 lúc 146.03s, rời lúc 156.03s | Due: 188 Đúng Hạn!
+Xe 20: [0, 24, 0]
+   - Đến điểm 24 lúc 150.00s, rời lúc 160.00s | Due: 190 Đúng Hạn!
+Xe 21: [0, 48, 0]
+   - Đến điểm 48 lúc 139.01s, rời lúc 149.01s | Due: 192 Đúng Hạn!
+Xe 22: [0, 74, 0]
+   - Đến điểm 74 lúc 122.98s, rời lúc 132.98s | Due: 195 Đúng Hạn!
+Xe 23: [0, 4, 0]
+   - Đến điểm 4 lúc 125.00s, rời lúc 135.00s | Due: 195 Đúng Hạn!
+Xe 24: [0, 80, 68, 0]
+   - Đến điểm 80 lúc 105.48s, rời lúc 115.48s | Due: 198 Đúng Hạn!
+   - Đến điểm 68 lúc 125.48s, rời lúc 135.48s | Due: 198 Đúng Hạn!
+Xe 25: [0, 60, 89, 0]
+   - Đến điểm 60 lúc 90.14s, rời lúc 100.14s | Due: 201 Đúng Hạn!
+   - Đến điểm 89 lúc 145.42s, rời lúc 155.42s | Due: 211 Đúng Hạn!
+
+⚠ Vẫn còn khách chưa được phục vụ đúng hạn:
+ - Khách 2, hạn: 89s, tọa độ: (35, 17)
+ - Khách 5, hạn: 107s, tọa độ: (15, 30)
+ - Khách 7, hạn: 105s, tọa độ: (20, 50)
+ - Khách 8, hạn: 138s, tọa độ: (10, 43)
+ - Khách 9, hạn: 150s, tọa độ: (55, 60)
+ - Khách 11, hạn: 152s, tọa độ: (20, 65)
+ - Khách 14, hạn: 137s, tọa độ: (15, 10)
+ - Khách 15, hạn: 154s, tọa độ: (30, 5)
+ - Khách 16, hạn: 105s, tọa độ: (10, 20)
+ - Khách 19, hạn: 108s, tọa độ: (15, 60)
+ - Khách 20, hạn: 152s, tọa độ: (45, 65)
+ - Khách 21, hạn: 96s, tọa độ: (45, 20)
+ - Khách 22, hạn: 144s, tọa độ: (45, 10)
+ - Khách 23, hạn: 155s, tọa độ: (55, 5)
+ - Khách 29, hạn: 98s, tọa độ: (64, 42)
+ - Khách 30, hạn: 123s, tọa độ: (40, 60)
+ - Khách 31, hạn: 85s, tọa độ: (31, 52)
+ - Khách 32, hạn: 175s, tọa độ: (35, 69)
+ - Khách 34, hạn: 143s, tọa độ: (65, 55)
+ - Khách 35, hạn: 178s, tọa độ: (63, 65)
+ - Khách 36, hạn: 178s, tọa độ: (2, 60)
+ - Khách 38, hạn: 145s, tọa độ: (5, 5)
+ - Khách 43, hạn: 158s, tọa độ: (23, 3)
+ - Khách 44, hạn: 138s, tọa độ: (11, 14)
+ - Khách 46, hạn: 150s, tọa độ: (2, 48)
+ - Khách 47, hạn: 116s, tọa độ: (8, 56)
+ - Khách 49, hạn: 132s, tọa độ: (6, 68)
+ - Khách 51, hạn: 119s, tọa độ: (49, 58)
+ - Khách 61, hạn: 102s, tọa độ: (12, 24)
+ - Khách 63, hạn: 112s, tọa độ: (27, 69)
+ - Khách 64, hạn: 165s, tọa độ: (15, 77)
+ - Khách 65, hạn: 170s, tọa độ: (62, 77)
+ - Khách 66, hạn: 179s, tọa độ: (49, 73)
+ - Khách 67, hạn: 150s, tọa độ: (67, 5)
+ - Khách 71, hạn: 106s, tọa độ: (57, 68)
+ - Khách 72, hạn: 110s, tọa độ: (47, 16)
+ - Khách 73, hạn: 105s, tọa độ: (44, 17)
+ - Khách 75, hạn: 101s, tọa độ: (49, 11)
+ - Khách 78, hạn: 158s, tọa độ: (61, 52)
+ - Khách 79, hạn: 135s, tọa độ: (57, 48)
+ - Khách 81, hạn: 110s, tọa độ: (55, 54)
+ - Khách 82, hạn: 91s, tọa độ: (15, 47)
+ - Khách 83, hạn: 97s, tọa độ: (14, 37)
+ - Khách 85, hạn: 117s, tọa độ: (16, 22)
+ - Khách 86, hạn: 118s, tọa độ: (4, 18)
+ - Khách 90, hạn: 123s, tọa độ: (31, 67)
+ - Khách 95, hạn: 83s, tọa độ: (25, 24)
+ - Khách 98, hạn: 93s, tọa độ: (19, 21)
+
+ Gợi ý tốc độ tối thiểu để giao các khách còn lại từ depot:
+ - Khách 2: cần tốc độ ≥ 0.23 m/s (0.82 km/h)
+ - Khách 5: cần tốc độ ≥ 0.21 m/s (0.77 km/h)
+ - Khách 7: cần tốc độ ≥ 0.22 m/s (0.80 km/h)
+ - Khách 8: cần tốc độ ≥ 0.21 m/s (0.74 km/h)
+ - Khách 9: cần tốc độ ≥ 0.23 m/s (0.82 km/h)
+ - Khách 11: cần tốc độ ≥ 0.24 m/s (0.85 km/h)
+ - Khách 14: cần tốc độ ≥ 0.25 m/s (0.91 km/h)
+ - Khách 15: cần tốc độ ≥ 0.21 m/s (0.76 km/h)
+ - Khách 16: cần tốc độ ≥ 0.31 m/s (1.10 km/h)
+ - Khách 19: cần tốc độ ≥ 0.33 m/s (1.18 km/h)
+ - Khách 20: cần tốc độ ≥ 0.22 m/s (0.80 km/h)
+ - Khách 21: cần tốc độ ≥ 0.21 m/s (0.75 km/h)
+ - Khách 22: cần tốc độ ≥ 0.20 m/s (0.72 km/h)
+ - Khách 23: cần tốc độ ≥ 0.25 m/s (0.90 km/h)
+ - Khách 29: cần tốc độ ≥ 0.34 m/s (1.22 km/h)
+ - Khách 30: cần tốc độ ≥ 0.23 m/s (0.81 km/h)
+ - Khách 31: cần tốc độ ≥ 0.23 m/s (0.84 km/h)
+ - Khách 32: cần tốc độ ≥ 0.21 m/s (0.74 km/h)
+ - Khách 34: cần tốc độ ≥ 0.27 m/s (0.98 km/h)
+ - Khách 35: cần tốc độ ≥ 0.24 m/s (0.88 km/h)
+ - Khách 36: cần tốc độ ≥ 0.25 m/s (0.89 km/h)
+ - Khách 38: cần tốc độ ≥ 0.31 m/s (1.13 km/h)
+ - Khách 43: cần tốc độ ≥ 0.23 m/s (0.83 km/h)
+ - Khách 44: cần tốc độ ≥ 0.25 m/s (0.90 km/h)
+ - Khách 46: cần tốc độ ≥ 0.25 m/s (0.91 km/h)
+ - Khách 47: cần tốc độ ≥ 0.32 m/s (1.16 km/h)
+ - Khách 49: cần tốc độ ≥ 0.36 m/s (1.30 km/h)
+ - Khách 51: cần tốc độ ≥ 0.25 m/s (0.89 km/h)
+ - Khách 61: cần tốc độ ≥ 0.28 m/s (1.00 km/h)
+ - Khách 63: cần tốc độ ≥ 0.34 m/s (1.23 km/h)
+ - Khách 64: cần tốc độ ≥ 0.30 m/s (1.08 km/h)
+ - Khách 65: cần tốc độ ≥ 0.31 m/s (1.12 km/h)
+ - Khách 66: cần tốc độ ≥ 0.24 m/s (0.86 km/h)
+ - Khách 67: cần tốc độ ≥ 0.31 m/s (1.13 km/h)
+ - Khách 71: cần tốc độ ≥ 0.41 m/s (1.49 km/h)
+ - Khách 72: cần tốc độ ≥ 0.22 m/s (0.81 km/h)
+ - Khách 73: cần tốc độ ≥ 0.21 m/s (0.76 km/h)
+ - Khách 75: cần tốc độ ≥ 0.31 m/s (1.10 km/h)
+ - Khách 78: cần tốc độ ≥ 0.21 m/s (0.76 km/h)
+ - Khách 79: cần tốc độ ≥ 0.20 m/s (0.74 km/h)
+ - Khách 81: cần tốc độ ≥ 0.28 m/s (0.99 km/h)
+ - Khách 82: cần tốc độ ≥ 0.29 m/s (1.04 km/h)
+ - Khách 83: cần tốc độ ≥ 0.24 m/s (0.87 km/h)
+ - Khách 85: cần tốc độ ≥ 0.22 m/s (0.77 km/h)
+ - Khách 86: cần tốc độ ≥ 0.33 m/s (1.18 km/h)
+ - Khách 90: cần tốc độ ≥ 0.29 m/s (1.03 km/h)
+ - Khách 95: cần tốc độ ≥ 0.20 m/s (0.73 km/h)
+ - Khách 98: cần tốc độ ≥ 0.26 m/s (0.92 km/h)
+
+Tổng số khách cần giao: 100
+Tổng số khách đã giao: 52
+ Còn khách chưa được giao!
+
+Tổng số xe sử dụng: 25
+Đã lưu báo cáo vào: model/output\gbfs_report_r110_2025-06-19_00-43-38.txt

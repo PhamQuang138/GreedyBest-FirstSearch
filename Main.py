@@ -5,7 +5,7 @@ from algorithms.Heuristic import euclidean_distance
 
 # Thông số
 dataset_name = "r110"
-speed = 0.8
+speed = 0.5
 
 # Đọc dữ liệu từ file
 coord_dict, time_dict, demand_dict, due_date_dict, service_time_dict = print_one_txt_file(f"{dataset_name}.txt")
@@ -19,11 +19,11 @@ GBFS = greedy_bfs(coord_dict,
                   time_dict=time_dict,
                   dataset_name="r110",
                   num_vehicles=25,
-                  speed=0.8,
-                  max_customers_per_vehicle=6)
+                  speed=0.5,
+                  max_customers_per_vehicle=4)
 
 
-# === In kết quả tuyến ===
+#In kết quả tuyến
 print("Test GBFS:\n")
 for i, route in enumerate(GBFS):
     print(f"Xe {i + 1}: {route}")
